@@ -1,4 +1,4 @@
-![Group photo](./pictures/group.jpg)
+![Group photo](./pictures/group1.jpg)
 
 
 # 🧾 Hackathon Report — CryptoLar × Starknet: O Hackathon — Ato I
