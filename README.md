@@ -1,3 +1,6 @@
+![Group photo](./pictures/group.jpg)
+
+
 # 🧾 Hackathon Report — CryptoLar × Starknet: O Hackathon — Ato I
 
 ### 📍 Overview  
@@ -78,7 +81,10 @@ Innovation 5 | Technical Execution 4.7 | Usefulness 5 | Organization 5
 Excellent use of Starknet’s ZK stack to enable real-world privacy and verification. Technically mature and well-presented.  
 
 **Media Appendix:**  
-![](https://drive.google.com/file/d/1V0neCY-gUyn-aYAv8nYoT1PZBTzlO9Oq/view?usp=drive_link)
+![Team 1A](./pictures/team1-a.HEIC)
+![Team 1B](./pictures/team1-b.HEIC)
+![Team 1C](./pictures/team1-c.HEIC)
+
 
 
 
