@@ -81,9 +81,9 @@ Innovation 5 | Technical Execution 4.7 | Usefulness 5 | Organization 5
 Excellent use of Starknet’s ZK stack to enable real-world privacy and verification. Technically mature and well-presented.  
 
 **Media Appendix:**  
-![Team 1A](./pictures/team1-a.HEIC)
-![Team 1B](./pictures/team1-b.HEIC)
-![Team 1C](./pictures/team1-c.HEIC)
+![Team 1A](./pictures/team1-a.jpg)
+![Team 1B](./pictures/team1-b.jpg)
+![Team 1C](./pictures/team1-c.jpg)
 
 
 
