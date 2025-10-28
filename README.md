@@ -34,13 +34,13 @@
 
 ### 📊 Results Summary  
 
-| Placement | Project | Prize (R$) | Approx. (USD) | Starknet Wallet | Submitted By |
-|------------|----------|-------------|----------------|-----------------|---------------|
-| 🥇 1st | **StarkVIP-Proof** | **R$6,200** | **~$1,127 USD** | `0x012E917bB42DA9612A519304289EBDb24b29fbcaDd076D4cc4d0f11c25788bb2` | @vvmafra |
-| 🥈 2nd | **HabitChain** | **R$5,800** | **~$1,055 USD** | `0x05D4E26c1d756EC1374E6803611efa1314370d5fde3600a3aFF720F95aaDA771` | @KopMark |
-| 🥉 3rd | **zkStay** | **R$1,000** | **~$182 USD** | `0x04832F6c0678C2033a772FECF8539d51F7C5569104Db2A5dF85A23Ec51aAd490` | @FelipeGabr |
-| 🎖️ 4th | **CryptoScore** | **R$1,000** | **~$182 USD** | `0x028163cac08f54d707bf425530a893791af4c4c9beeb984895e07cbb718f9be4` | @FabioNoth |
-| 🎖️ 5th | **NEXUS Hospitality** | **R$1,000** | **~$182 USD** | `0x069fcF671Fd2F307c95FCb34E6133cECdc1188E23c48BfB7559C0d9C14CeE289` | @mikhaeldev |
+| Placement | Project | Prize (R$) | Approx. (USD) | CopperX Email | Submitted By |
+|------------|----------|-------------|----------------|----------------|---------------|
+| 🥇 1st | **StarkVIP-Proof** | **R$6,200** | **~$1,127 USD** | victorvmafra97@gmail.com | @vvmafra |
+| 🥈 2nd | **HabitChain** | **R$5,800** | **~$1,055 USD** | gobannondutra@gmail.com | @gdutra |
+| 🥉 3rd | **zkStay** | **R$1,000** | **~$182 USD** | felipe.g.datascience@gmail.com | @FelipeGabr |
+| 🎖️ 4th | **CryptoScore** | **R$1,000** | **~$182 USD** | fabio.noth@gmail.com | @FabioNoth |
+| 🎖️ 5th | **NEXUS Hospitality** | **R$1,000** | **~$182 USD** | maiconloure@gmail.com | @mikhaeldev |
 | **Total** | — | **R$15,000** | **~$2,727 USD** | — | — |
 
 ---
@@ -140,7 +140,11 @@ zkStay eliminates intermediaries, reducing fees (up to 20%) while returning priv
 - Frontend wallet connection reliability.  
 
 **Team Members & GitHub:**  
-Cristian Pietro, Vinicius Mafra, Felipe Gabriel, Guilherme Binsfeld, William Rodrigues.  
+- Cristian Pietro — [github.com/cristianpp](https://github.com/cristianpp)  
+- Vinicius Mafra — [github.com/vinimaffra03](https://github.com/vinimaffra03)  
+- Felipe Gabriel — [github.com/FG-SC](https://github.com/FG-SC)  
+- Guilherme Binsfeld — [github.com/guilhermebins](https://github.com/guilhermebins)  
+- William Rodrigues — [github.com/VVillRodr](https://github.com/VVillRodr)  
 
 **Repositories:**  
 - [Frontend](https://github.com/vinimaffra03/zkStay)  
@@ -173,6 +177,10 @@ DeFi depends on over-collateralization. CryptoScore introduces a decentralized c
 - Implementing Soulbound NFTs.  
 - Cairo contract time constraints.  
 
+**Team Members & GitHub:**  
+- Fabio Noth — [github.com/fabionoth](https://github.com/fabionoth)  
+- Kunah — [github.com/Kunhah127](https://github.com/Kunhah127)  
+
 **Repository:** [github.com/fabionoth/cryptoscore](https://github.com/fabionoth/cryptoscore)  
 **Presentation:** [Google Drive Deck](https://drive.google.com/file/d/1-ZfTWbLRKT-gC_iQMCK6z7hSrSscZ_fd/view)  
 
@@ -198,6 +206,12 @@ Centralized booking platforms drain host and guest value through high fees. NEXU
 **Development Challenges:**  
 - Transaction version mismatch during deployment.  
 - SDK compatibility testing for contract verification.  
+
+**Team Members & GitHub:**  
+- Daniel Roger Gorgonha — [github.com/danielgorgonha](https://github.com/danielgorgonha)  
+- Felipe Santos — [github.com/felpssdev](https://github.com/felpssdev)  
+- Kinza Marcato  
+- Maicon Lourenço — [github.com/maiconloure](https://github.com/maiconloure)  
 
 **Repository:** [github.com/maiconloure/nexus-hospitality-app](https://github.com/maiconloure/nexus-hospitality-app)  
 **Presentation:** [Google Drive Deck](https://drive.google.com/file/d/184J7-oLDWCUi5Xn_7-5aHv_jVhP-06Zy/view)  
@@ -292,4 +306,3 @@ Both **StarkVIP-Proof** and **HabitChain** were identified by the organizing tea
 - **LinkedIn:** [linkedin.com/in/lorenzo-baumgratz/](https://www.linkedin.com/in/lorenzo-baumgratz/)  
 - **Twitter:** [@LorenzoBaumgrtz](https://x.com/LorenzoBaumgrtz)  
 - **Telegram:** [t.me/LBZAO](https://t.me/LBZAO)
-
